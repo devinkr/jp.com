@@ -1,0 +1,11 @@
+#logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-family: 'Press Start 2P', cursive;
+  color: black;
+  font-size: 70px;
+  max-width: 300px;
+}
